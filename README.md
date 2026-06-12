@@ -1,4 +1,5 @@
 # Çağrı Merkezi Performans Analizi (SQL + Power BI)
+# Call Center Performance Analysis (SQL + Power BI)
 
 ## İş Senaryosu
 
